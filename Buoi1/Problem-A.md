@@ -16,6 +16,7 @@ $1 \leqslant m \leqslant 20$
 $1 \leqslant n \leqslant 20$
 
 ### Example
+<center>
 <div style="display: flex; justify-content: center;">
 <table style="width:85%; border-collapse: collapse;">
 <tr>
@@ -66,4 +67,4 @@ invalid
 </tr>
 </table>
 </div>
-
+</center>
