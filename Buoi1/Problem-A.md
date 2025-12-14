@@ -4,7 +4,7 @@ There are many algorithms to generate maze. After generating the maze we’ve to
 Given a maze, just find whether the maze is "valid" or "invalid".
 
 ### Input
-The first line consists of an integer $t$, the number of test cases. Then for each test case, the first line consists of two integers $m$ and $n$, the number of rows and columns in the maze. Then contains the description of the matrix $M$ of order $m \times n$. $M[i][j] =$ # represents a wall and $M[i][j] =$ '.' represents a space.
+The first line consists of an integer $t$, the number of test cases. Then for each test case, the first line consists of two integers $m$ and $n$, the number of rows and columns in the maze. Then contains the description of the matrix $M$ of order $m \times n$. $M[i][j] = $ # represents a wall and $M[i][j] =$ '.' represents a space.
 
 ### Output
 For each test case find whether the maze is "valid" or "invalid".
