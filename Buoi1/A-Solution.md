@@ -9,14 +9,11 @@ void find_entrance(vector<pair<int, int>>& entrance, const vector<vector<char>>&
                 entrance.push_back({i, 0});
             }
         }
-
-        if (grid[i][n - 1] == '.') {
         if (grid[i][n - 1] == '.') {
             if (!visited[i][n - 1]) {
                 visited[i][n - 1] = true;
                 entrance.push_back({i, n - 1});
             }
-        }
         }
     }
     for (int j = 0; j < n; ++j) {
