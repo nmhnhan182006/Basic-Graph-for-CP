@@ -16,7 +16,7 @@ $1 \leqslant m \leqslant 20$
 $1 \leqslant n \leqslant 20$
 
 ### Example
-
+<center>
 <table style="width:100%; border-collapse: collapse;">
 <tr>
 <td style="border-bottom: 1px solid #ddd; padding: 12px; width: 70%; vertical-align: top;"><strong><center>Input</center></strong></td>
@@ -47,5 +47,5 @@ $1 \leqslant n \leqslant 20$
 <td style="padding: 12px;">invalid</td>
 </tr>
 </table>
-
+</center>
 
