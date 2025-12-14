@@ -16,13 +16,14 @@ $1 \leqslant m \leqslant 20$
 $1 \leqslant n \leqslant 20$
 
 ### Example
-<table>
+<center>
+<table style="width:100%;">
 <tr>
-<th align="center">Input</th>
-<th align="center">Output</th>
+<th align="center" style="width:65%;">Input</th>
+<th align="center" style="width:35%;">Output</th>
 </tr>
 <tr>
-<td>
+<td valign="top">
 <pre><code>
 6
 4 4
@@ -52,7 +53,7 @@ $1 \leqslant n \leqslant 20$
 #.##
 </code></pre>
 </td>
-<td>
+<td valign="top">
 <pre><code>
 valid
 valid
@@ -64,5 +65,7 @@ invalid
 </td>
 </tr>
 </table>
+
+</center>
 <!-- <p align="center"><img width="1249" height="865" alt="Image" src="https://github.com/user-attachments/assets/69bdbd08-4126-4d03-b929-5ddc84904f82" /></p> -->
 
