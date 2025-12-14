@@ -16,7 +16,9 @@ For each test case find whether the maze is "valid" or "invalid".
 - $1 \leqslant n \leqslant 20$
 
 ### Example
-<table align="center" width="100%">
+<p align = "center"><img width="1249" height="865" alt="Image" src="https://github.com/user-attachments/assets/34d2151c-91bf-4844-b0da-1045b6467d32" /></p>
+
+<!-- <table align="center" width="100%">
 <tr>
 <th width="60%" align="center">Input</th>
 <th width="40%" align="center">Output</th>
@@ -63,4 +65,4 @@ invalid
 </code></pre>
 </td>
 </tr>
-</table>
+</table> -->
