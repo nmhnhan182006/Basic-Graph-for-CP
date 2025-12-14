@@ -16,36 +16,4 @@ $1 \leqslant m \leqslant 20$
 $1 \leqslant n \leqslant 20$
 
 ### Example
-<center>
-<table style="width:100%; border-collapse: collapse;">
-<tr>
-<td style="border-bottom: 1px solid #ddd; padding: 12px; width: 70%; vertical-align: top;"><strong><center>Input</center></strong></td>
-<td style="border-bottom: 1px solid #ddd; padding: 12px; width: 30%; vertical-align: top;"><strong><center>Output</center></strong></td>
-</tr>
-<tr>
-<td style="padding: 12px; font-family: monospace;">6<br>4 4<br>####<br>#...<br>#.##<br>#.##</td>
-<td style="padding: 12px;">valid</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-family: monospace;">5 5<br>#.###<br>#...#<br>##..#<br>#.#.#<br>###.#</td>
-<td style="padding: 12px;">valid</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-family: monospace;">1 1<br>.</td>
-<td style="padding: 12px;">invalid</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-family: monospace;">5 1<br>#<br>#<br>.<br>.<br>#</td>
-<td style="padding: 12px;">valid</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-family: monospace;">2 2<br>#.<br>.#</td>
-<td style="padding: 12px;">invalid</td>
-</tr>
-<tr>
-<td style="padding: 12px; font-family: monospace;">3 4<br>#..#<br>#...#<br>#.##</td>
-<td style="padding: 12px;">invalid</td>
-</tr>
-</table>
-</center>
-
+<p align = "center"><![Example](image.png) /></p>
