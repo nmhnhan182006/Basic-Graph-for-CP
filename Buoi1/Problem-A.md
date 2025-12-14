@@ -16,7 +16,7 @@ $1 \leqslant m \leqslant 20$
 $1 \leqslant n \leqslant 20$
 
 ### Example
-<!-- <table align="center" width="100%">
+<table align="center" width="100%">
 <tr>
 <th width="60%" align="center">Input</th>
 <th width="40%" align="center">Output</th>
@@ -63,33 +63,4 @@ invalid
 </code></pre>
 </td>
 </tr>
-</table> -->
-| **Input** | **Output** |
-|----------|-----------|
-| 6 | valid |
-| 4 4 | valid |
-| #### | invalid |
-| #..# | valid |
-| #..# | invalid |
-| 5 5 | invalid |
-| #.### |  |
-| #..## |  |
-| ##..# |  |
-| #.#.# |  |
-| ###.# |  |
-| 1 1 | valid |
-| . |  |
-| 5 1 | invalid |
-| # |  |
-| # |  |
-| . |  |
-| . |  |
-| # |  |
-| 2 2 | invalid |
-| #. |  |
-| .# |  |
-| 3 4 | invalid |
-| #..# |  |
-| #.## |  |
-| #.## |  |
-
+</table>
