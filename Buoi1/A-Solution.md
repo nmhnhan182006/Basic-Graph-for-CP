@@ -57,7 +57,7 @@ void dfs(const vector<vector<char>>& grid, int m, int n, int x, int y) {
 }
 ```
 
-Sau khi đã DFS, ta đã duyệt qua các đường đi liên thông với nhau, khi đó nếu cả lối vào và lối ra của mê cung đã được thăm thì ta in ra "valid". Ngược lại, ta in ra "invalid".
+Sau khi đã DFS, ta đã duyệt qua các đường đi liên thông với nhau, khi đó nếu cả lối vào và lối ra của mê cung đã được thăm thì mê cung đó luôn tồn tại ít nhât một đường đi từ lối vào đến lối ra, ngược lại thì không.
 ```cpp
 vector<pair<int, int>> entrance;
 memset(visited, false, sizeof(visited));
