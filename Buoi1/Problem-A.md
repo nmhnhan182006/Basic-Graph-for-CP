@@ -1,3 +1,3 @@
 # A - VALIDATE THE MAZE
 There are many algorithms to generate maze. After generating the maze we’ve to validate whether it’s a valid maze or not. A valid maze has exactly one entry point and exactly one exit point (exactly 2 openings in the edges) and there must be at least one path from the entry point to exit point.
-<p align="center">![Prim Maze](<img width="2560" height="2560" alt="Image" src="https://github.com/user-attachments/assets/d21bb0b9-237f-4c73-8a16-3129ad988098" />)</p>
+<p align="center"><img width="256" height="256" alt="Image" src="https://github.com/user-attachments/assets/d21bb0b9-237f-4c73-8a16-3129ad988098" /></p>
