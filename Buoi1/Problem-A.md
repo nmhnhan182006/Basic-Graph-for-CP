@@ -16,6 +16,56 @@ $1 \leqslant m \leqslant 20$
 $1 \leqslant n \leqslant 20$
 
 ### Example
+<table>
+<tr>
+<th align="center">Input</th>
+<th align="center">Output</th>
+</tr>
+<tr>
+<td>
 
-<p align="center"><img width="1249" height="865" alt="Image" src="https://github.com/user-attachments/assets/69bdbd08-4126-4d03-b929-5ddc84904f82" /></p>
+6
+4 4
+
+#..#
+#..#
+5 5
+#.###
+#..##
+##..#
+#.#.#
+###.#
+1 1
+.
+5 1
+
+.
+.
+
+2 2
+#.
+.#
+3 4
+#..#
+#.##
+#.##
+
+</td>
+<td>
+
+valid
+valid
+invalid
+valid
+invalid
+invalid
+
+</td>
+</tr>
+</table>
+
+
+
+
+<!-- <p align="center"><img width="1249" height="865" alt="Image" src="https://github.com/user-attachments/assets/69bdbd08-4126-4d03-b929-5ddc84904f82" /></p> -->
 
