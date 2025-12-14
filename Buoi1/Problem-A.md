@@ -19,8 +19,8 @@ $1 \leqslant n \leqslant 20$
 <div style="display: flex; justify-content: center;">
 <table style="width:85%; border-collapse: collapse;">
 <tr>
-<th align="center" style="width:55%; border-bottom: 2px solid #333; padding: 15px; background-color: #f9f9f9;">Input</th>
-<th align="center" style="width:45%; border-bottom: 2px solid #333; padding: 15px; background-color: #f9f9f9;">Output</th>
+<th align="center" style="width:150px; border-bottom: 2px solid #333; padding: 15px; background-color: #f9f9f9;">Input</th>
+<th align="center" style="width:150px; border-bottom: 2px solid #333; padding: 15px; background-color: #f9f9f9;">Output</th>
 </tr>
 <tr>
 <td valign="top" style="padding: 12px; border-right: 1px solid #ddd;">
