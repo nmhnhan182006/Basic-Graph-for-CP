@@ -18,7 +18,7 @@ void dfs(int x, int y) {
 }
 ```
 
-Với mỗi lần DFS, ta duyệt qua các thành phần `.` liên thông với nhau. Điều đó cũng có nghĩa là số lần ta DFS cũng chính là số căn phòng bản đồ.
+Với mỗi lần DFS, ta duyệt qua các thành phần `.` liên thông với nhau. Điều đó cũng có nghĩa là số lần ta DFS cũng chính là số căn phòng có trên bản đồ.
 ```cpp
 int res = 0;
 for (int i = 0; i < n; ++i) {
