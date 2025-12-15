@@ -71,4 +71,4 @@ if (visited[start_x][start_y] && visited[end_x][end_y]) cout << "valid" << '\n';
 else cout << "invalid" << '\n';
 ```
 
-Độ phức tạp thuật toán cho bài toán này là: $\mathcal{O} \left( t \times m \times n\right)$.
+Độ phức tạp thuật toán cho bài toán này là: $O\left( t \times m \times n\right)$.
