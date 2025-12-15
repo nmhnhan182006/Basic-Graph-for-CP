@@ -26,7 +26,7 @@ void dfs(int u) {
     trace.push_back(u);
 }
 ```
-Sau khi đã DFS, ta phải cần kiểm tra xem liệu rằng số đường đi trong chu trình có bằng $m + 1$ hay không? Nếu có, điều đó có nghĩa tồn tại chu trình cần tìm, ngược lại thì không.
+Chu trình thỏa mãn đi qua tất cả các cạnh trong đồ thị và quay trở về đỉnh $1$ sẽ có $m + 1$ đường đi trong nó, điều đó có nghĩa nếu kích thước của vector đường đi $trace$ bằng $m + 1$ thì ta đã tìm được chu trình thỏa mãn, ngược lại thì không tồn tại chu trình thỏa mãn.
 ```cpp
 dfs(1);
 if (int(trace.size()) != m + 1) {
