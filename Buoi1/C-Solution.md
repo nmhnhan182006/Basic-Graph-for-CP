@@ -36,5 +36,5 @@ Sau khi đã DFS, ta phải cần kiểm tra xem liệu rằng số đường đ
     for (auto x : trace)
         cout << x << ' ';
 ```
-Độ phức tạp của bài toán này là: $O\left( \log n \times m \times n\right)$.
+Độ phức tạp của bài toán này là: $O\left( \log n + m \times n\right)$.
 
